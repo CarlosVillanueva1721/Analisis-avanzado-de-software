@@ -24,7 +24,7 @@ ___
 
   * # :blue_book:[Unidad 1](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%201)
 
-    * # :hourglass:[C0.1 Reto en clase](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C0.1_IntegrarEquiposDeTrabajo_VillanuevaRomeroCarlosDaladier.md)
+    * ### :hourglass:[C0.1 Reto en clase](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C0.1_IntegrarEquiposDeTrabajo_VillanuevaRomeroCarlosDaladier.md)
 
   * # :orange_book:[Unidad 2](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%202) 
 
