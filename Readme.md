@@ -24,11 +24,9 @@ ___
 
   * # :blue_book:[Unidad 1](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%201)
 
-    * ### :hourglass:[C0.1 Integrar equipos de trabajo
-](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C0.1_IntegrarEquiposDeTrabajo_VillanuevaRomeroCarlosDaladier.md)
+    * ### :hourglass:[C0.1 Integrar equipos de trabajo](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C0.1_IntegrarEquiposDeTrabajo_VillanuevaRomeroCarlosDaladier.md)
 
-    * ### :hourglass:[C0.2 Tipo de sistema de información
-](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C.2%20.Tipo%20de%20Sistema%20de%20informaci%C3%B3n.md)
+    * ### :hourglass:[C0.2 Tipo de sistema de información](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C.2%20.Tipo%20de%20Sistema%20de%20informaci%C3%B3n.md)
 
 * # :orange_book:[Unidad 2](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%202) 
 
