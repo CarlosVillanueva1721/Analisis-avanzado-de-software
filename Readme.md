@@ -34,6 +34,8 @@ ___
 
 * # :orange_book:[Unidad 2](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%202) 
 
+    * ### :hourglass:[C1.1 Definición de Objetivo general y los especificos, asi como el modelado del negocio.](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_1_Definici%C3%B3n%20de%20Objetivo%20general%20y%20los%20especificos%2C%20asi%20como%20el%20modelado%20del%20negocio_Villanueva_Carlos.md) 
+
   * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
 
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
