@@ -52,8 +52,8 @@ El desarrollo de una plataforma en linea donde empleados puedan certificarce en 
     <img alt="siscripcion" src="https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/Suscripción%20a%20curso.png">
     <img alt="certificación" src="https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/Certificacion%20de%20curso.png">
     <img alt="expiración" src="https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/Expiracion%20de%20certificación.png">
-    <img alt="revalidación" src="https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/Revalidacion%20de%20certificación.png
-    ">
+    <img alt="revalidación" src="https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/Revalidacion.png">
+    >
 
 </p>
 ___
