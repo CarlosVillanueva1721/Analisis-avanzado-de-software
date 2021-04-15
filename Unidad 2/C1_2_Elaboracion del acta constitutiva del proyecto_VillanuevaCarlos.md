@@ -95,6 +95,7 @@ ___
 | Falta de miembros de equipo para trabajar en las actividades. |
 | Problemas en la etapa de codificación. |
 | Atraso en los tiempos definidos en el cronograma. |
+| Falta de experiencia en el equipo de desarrollo. |
 
 
 | Costo Preliminar Estimado / Presupuesto |
@@ -117,11 +118,14 @@ ___
 | ------- |
 | La empresa cuenta con información ya registrada de los empleados para el inicio de sesión. |
 | Los empleados tienen previo conocimiento del uso de computadoras y navegación por plataformas en línea. |
+| Se cuentan con los cursos creados para la plataforma. |
 
 | Restricciones |
 | ------- |
-| El proyecto debe ser terminado el *DD/MM/AA* |
+|Tiempo de desarrollo para el proyecto. |
 | Se requiere la aprobación del cliente en iteraciones para continuar con el desarrollo del proyecto. |
+|Tamaño del equipo de desarrollo. |
+
 
 ___
 
