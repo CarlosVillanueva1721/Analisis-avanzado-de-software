@@ -35,7 +35,7 @@ ___
    
     Identificador | Nombre | Descripción | 
     :--|:--|:--
-    RFN-01|Disponibilidad|El sistema sera desarrolladocomo plataforma en línea.
+    RFN-01|Respaldo|El sistema realizara periodicamente respaldos de la información obtenida.
     RFN-02|Inicio de sesión|Se utilizaran como credenciales de acceso los datos col los que cuenta la empresa.
     RFN-03|Perfil de usuario|Establecer un perfil de usuario de acuerdo al rol que cumple dentro de la empresa.
     RFN-04|Catalogo de cursos|Presentación de los cursos disponibles en los cuales se puede inscribir el usuario.
@@ -58,7 +58,7 @@ ___
     RNFN-01|Seguridad|Los datos de inicio de sesión solo deben ser visibles para el administrador y el propio usuario.
     RNFN-02|Interfaz|La interfaz del sistema debe ser sencilla e intuitiva para cualquier usuario que no tenga conocimientos es sistemas similares.
     RNFN-03|Accesibilidad|La plataforma debe estar disponible para su uso en cualquier momento.
-    RNFN-04|Respaldo|El sistema realizara periodicamente respaldos de la información obtenida.
+    RNFN-04|tiempo de respuesta|El tiempo de inscripcion a un curso no debe superar los 5 minutos.
     RNFN-05|Usuarios simultaneos|El sistema debe ser capaz de operar adecuadamente con hasta 15000 usuarios con sesiones simultaneas.
 
 ___
