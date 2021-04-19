@@ -30,7 +30,7 @@ ___
 
     * ### :hourglass:[C0.3 Diagrama de flujo del proceso](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/C0.3%20Diagrama%20de%20flujo%20del%20proceso..md)
 
-    * ### :hourglass:[A0.1 Data collection by interview](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/A0.1_Recopilacion_Entrevista_Villanueva_Carlos.md)
+    * ### :trophy:[A0.1 Data collection by interview](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%201/A0.1_Recopilacion_Entrevista_Villanueva_Carlos.md)
 
 * # :orange_book:[Unidad 2](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%202) 
 
@@ -39,6 +39,8 @@ ___
  
     * ### :hourglass:[C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_3%20Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio_VillanuevaCarlos.md) 
 
+    * ### :trophy:[A1.0 Consolidacion del acta constitutiva](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1_0%20Consolidacion%20del%20acta%20constitutiva_Villanueva_Carlos.md)
+
   * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
 
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
@@ -46,10 +48,3 @@ ___
   * # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
 
   * # :closed_book::[PDF](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
-
-
-
-
-
-
-
