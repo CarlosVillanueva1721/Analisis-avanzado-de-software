@@ -39,7 +39,7 @@ ___
  
     * ### :hourglass:[C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_3%20Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio_VillanuevaCarlos.md) 
 
-    * ### :trophy:[A1.0 Consolidacion del acta constitutiva](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1_0%20Consolidacion%20del%20acta%20constitutiva_Villanueva_Carlos.md)
+    * ### :trophy:[A1.0 Project Charter](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1_0%20Consolidacion%20del%20acta%20constitutiva_Villanueva_Carlos.md)
 
   * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
 
