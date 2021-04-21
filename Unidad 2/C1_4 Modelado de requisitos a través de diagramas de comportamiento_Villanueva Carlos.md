@@ -43,13 +43,16 @@ ___
 
 2. Diagrama UML a elaborar:
    + Diagrama de **casos de uso**
+    
     ![general]( https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/casosdeuso.png "Diagrama caso de uso general")
     
    + Diagrama de **de secuencia**
-     ![secuencia]( https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/diagrama%20secuencia.png "Diagrama secuencia")
+    
+    ![secuencia]( https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/diagrama%20secuencia.png "Diagrama secuencia")
 
    + Diagrama de **clases** 
-     ![Clases]( https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/diagrama%20clases.png "Diagrama secuencia")
+    
+    ![Clases]( https://raw.githubusercontent.com/CarlosVillanueva1721/Analisis-avanzado-de-software/main/img/diagrama%20clases.png "Diagrama secuencia")
 
 
 ### :bomb: Rubrica
