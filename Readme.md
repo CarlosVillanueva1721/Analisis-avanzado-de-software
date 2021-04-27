@@ -40,8 +40,10 @@ ___
     * ### :hourglass:[C1.3 Requisitos del sistema para el caso de estudio](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_3%20Requisitos%20del%20sistema%20para%20el%20caso%20de%20estudio_VillanuevaCarlos.md) 
     
     * ### :hourglass:[C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_4%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20de%20comportamiento_Villanueva%20Carlos.md) 
-
-    * ### :trophy:[A1.0 Project Charter](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1_0%20Consolidacion%20del%20acta%20constitutiva_Villanueva_Carlos.md)
+  
+  * ### :hourglass:[C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/C1_5%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_villanuevaCarlos.md)
+   
+   * ### :trophy:[A1.0 Project Charter](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1_0%20Consolidacion%20del%20acta%20constitutiva_Villanueva_Carlos.md)
 
   * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
 
