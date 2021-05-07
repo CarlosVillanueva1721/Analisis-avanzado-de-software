@@ -47,9 +47,8 @@ ___
 
     * ### :trophy:[A1.1 UML Requirements Modeling](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%202/A1.1_UML_Requirements_Modeling_Villanueva_Carlos.md)
 
-  * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
-
-  *  ### :hourglass:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/C2_1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_Villanueva_Carlos.md)
+* # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
+   *  ### :hourglass:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/C2_1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_Villanueva_Carlos.md)
 
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
