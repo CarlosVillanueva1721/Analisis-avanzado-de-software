@@ -50,8 +50,13 @@ ___
 * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
    *  ### :hourglass:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/C2_1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_Villanueva_Carlos.md)
 
+ * ### :trophy:[A2.1 Requirements specifications and documentation](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.1_Requirements_specifications_and_documentation.md)
+
+ * ### :trophy:[A2.2  4+1 Architectural ViewModel](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.2_41_Architectural_ViewModel.md)
+ 
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
   * # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
 
   * # :closed_book::[PDF](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
+https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.1_Requirements_specifications_and_documentation.md
