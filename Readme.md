@@ -59,7 +59,7 @@ ___
 
 * # :blue_book:[Unidad 4](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%204)
      * ### :trophy:[A3.1.Documentation Scrum InitiatePhase](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.1.Documentation_Scrum_InitiatePhase.md)
-    *:trophy:[A3.2 InitialPhase Artifacts](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.2_InitialPhase_Artifacts.md)
+     * ### :trophy:[A3.2 InitialPhase Artifacts](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.2_InitialPhase_Artifacts.md)
    
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
@@ -67,4 +67,3 @@ ___
 
   * # :closed_book::[PDF](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
 
-https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.2_InitialPhase_Artifacts.md
