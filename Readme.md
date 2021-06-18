@@ -64,9 +64,9 @@ ___
    
      * ### :trophy:[A3.3 Architecture using C4 Model](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.3_Architecture_usingC4Model_Villanueva_Carlos.md)
      
-  * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
+* # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
-  * # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
+* # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
 
-  * # :closed_book::[PDF](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
+* # :closed_book::[PDF](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
 
