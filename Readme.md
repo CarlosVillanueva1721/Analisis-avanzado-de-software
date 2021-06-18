@@ -49,18 +49,21 @@ ___
 
 * # :green_book:[Unidad3](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%203) 
 
-*  ### :hourglass:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/C2_1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_Villanueva_Carlos.md)
+    *  ### :hourglass:[C2.1 Especificación de Requerimientos Funcionales](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/C2_1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_Villanueva_Carlos.md)
 
- * ### :trophy:[A2.1 Requirements specifications and documentation](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.1_Requirements_specifications_and_documentation.md)
+     * ### :trophy:[A2.1 Requirements specifications and documentation](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.1_Requirements_specifications_and_documentation.md)
 
- * ### :trophy:[A2.2  4+1 Architectural ViewModel](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.2_41_Architectural_ViewModel.md)
+    * ### :trophy:[A2.2  4+1 Architectural ViewModel](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.2_41_Architectural_ViewModel.md)
 
- * ### :trophy:[A2.3 Software Architectural Patterns](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.3_Software_Architectural_Patterns_Villanueva_Carlos.md)
+     * ### :trophy:[A2.3 Software Architectural Patterns](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%203/A2.3_Software_Architectural_Patterns_Villanueva_Carlos.md)
 
 * # :blue_book:[Unidad 4](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/Unidad%204)
+
      * ### :trophy:[A3.1.Documentation Scrum InitiatePhase](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.1.Documentation_Scrum_InitiatePhase.md)
      * ### :trophy:[A3.2 InitialPhase Artifacts](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.2_InitialPhase_Artifacts.md)
    
+     * ### :trophy:[A3.3 Architecture using C4 Model](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.3_Architecture_usingC4Model_Villanueva_Carlos.md)
+     
   * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
   * # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
