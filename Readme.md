@@ -64,6 +64,8 @@ ___
    
      * ### :trophy:[A3.3 Architecture using C4 Model](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.3_Architecture_usingC4Model_Villanueva_Carlos.md)
      
+     * ### :trophy:[A3.4 Scrum Artifacts PlanningEstimation](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/blob/main/Unidad%204/A3.4_Scrum_Artifacts_PlanningEstimation_Villanueva_Carlos.md)
+
 * # :page_facing_up:[HTML](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/html) 
 
 * # :camera:[IMG](https://github.com/CarlosVillanueva1721/Analisis-avanzado-de-software/tree/main/blog) 
